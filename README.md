@@ -1,4 +1,4 @@
-# 🏢 Case Study: CIMBA – Customer Case & Inflow Analytics (Conduent)
+# 🏢 Case Study: CIMBA – Customer Case & Inflow Analytics (Conduent / Google Contract)
 
 ## 📌 Overview
 
